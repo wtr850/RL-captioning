@@ -1,0 +1,100 @@
+< S T A R T >   t h e r e   i s   a n   i m a g e   o f   a   h o r s e   t h a t   i s   t a l k i n g   < E N D >
+< S T A R T >   t h e r e   i s   a   a i r p l a n e   t h a t   i s   s i t t i n g   o n   t h e   g r o u n d   < E N D >
+< S T A R T >   a   b a t h r o o m   t h a t   h a s   a   t o i l e t   a n d   t u b   i n   i t   < E N D >
+< S T A R T >   a   c r o w d   o f   p e o p l e   s t a n d i n g   n e a r   a   f e n c e   < E N D >
+< S T A R T >   t h e r e   i s   a   p e r s o n   t h a t   i s   o n   s o m e   s k i s   < E N D >
+< S T A R T >   t h e r e   i s   a   m a n   d o i n g   a   t r i c k   o n   a   s k a t e b o a r d   a   r a m p   < E N D >
+< S T A R T >   a   c l o s e   s h o t   o f   a   l i t t l e   b o y   w e a r i n g   a   t i e   < E N D >
+< S T A R T >   a   p h o t o   o f   a   c l o c k   t o w e r   n e a r   a   d o c k   < E N D >
+< S T A R T >   a   v e r y   t a l l   c l o c k   t o w e r   o n   a   b e a c h   < E N D >
+< S T A R T >   a   c l o s e   u p   o f   a   d o g   i n   a   c h a i r   < E N D >
+< S T A R T >   t h e r e   i s   a n   i m a g e   t h a t   i s   l o o k i n g   i n s i d e   < E N D >
+< S T A R T >   a   g r o u p   o f   y o u n g   l a d y   s t a n d i n g   n e x t   t o   s o m e   s t a i r s   < E N D >
+< S T A R T >   t h e r e   i s   a   t r a f f i c   s i g n   s i t t i n g   o n   i t   < E N D >
+< S T A R T >   a   p l a t e   t o p p e d   w i t h   c o o k e d   v e g e t a b l e s   n e x t   t o   i t   < E N D >
+< S T A R T >   a   d o u b l e   d e c k e r   b u s   i s   b e i n g   p u l l e d   b y   a   m a n   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   s t a n d i n g   o n   a   b e a c h   w i t h   s u r f b o a r d s   < E N D >
+< S T A R T >   a   g r o u p   o f   b u i l d i n g   s t a n d i n g   n e x t   t o   e a c h   o t h e r   < E N D >
+< S T A R T >   a   v e r y   b i g   s p a c e   w i t h   a   b u n c h   o f   f u r n i t u r e   i n   i t   < E N D >
+< S T A R T >   t h e r e   i s   v e r y   < U N K >   < U N K >   a n d   a   s p o o n   < E N D >
+< S T A R T >   t h e r e   i s   a   p l a t e   o f   f o o d   w i t h   a   v a r i e t y   o f   v e g e t a b l e s   < E N D >
+< S T A R T >   a   m a n   < U N K >   a t   t h e   b o t t o m   o f   a   c e l l   p h o n e   < E N D >
+< S T A R T >   a   b u n c h   o f   b r e a d   i s   s i t t i n g   o n   a   p l a t e   < E N D >
+< S T A R T >   t h e r e   i s   a   h e r d   o f   t r i c k   t h a t   i s   w a l k i n g   d o w n   a   h i l l   < E N D >
+< S T A R T >   t h e r e   i s   a n   < U N K >   u m b r e l l a   i n   t h e   a i r   < E N D >
+< S T A R T >   a   b o y   d o i n g   a   t r i c k   o n   h i s   s k a t e b o a r d   < E N D >
+< S T A R T >   t h e r e   i s   a   t r a i n   t h a t   i s   h a n g i n g   o n   t h e   t h e   < U N K >   o f   t h e   t a b l e   < E N D >
+< S T A R T >   a   w h i t e   p l a t e   t o p p e d   w i t h   d i f f e r e n t   t y p e s   o f   v e g e t a b l e s   < E N D >
+< S T A R T >   a   y o u n g   p e r s o n   e a t i n g   a   s l i c e   o f   p i z z a   b a n a n a   < E N D >
+< S T A R T >   a   w o m a n   s t a n d i n g   o n   t h e   c o u n t e r   o f   a   l i n e   o f   f r u i t s   < E N D >
+< S T A R T >   t h e   s u n   i s   < U N K >   t h r o u g h   a n   i n t e r s e c t i o n   < E N D >
+< S T A R T >   a   m a n   i s   < U N K >   h o l d i n g   u p   a   f r i s b e e   < E N D >
+< S T A R T >   a   b a t h r o o m   a r e a   w i t h   a   l a r g e   w h i t e   t o i l e t   a n d   < U N K >   < E N D >
+< S T A R T >   t h e r e   i s   a   f i r e   h y d r a n t   t h a t   i s   o n   t h e   s t r e e t   < E N D >
+< S T A R T >   a   b l a c k   a n d   w h i t e   c a t   s i t t i n g   o n   t o p   o f   a   t a b l e   < E N D >
+< S T A R T >   a   y o u n g   m a n   s w i m m i n g   o n   t h e   e d g e   o f   t h e   w a t e r   < E N D >
+< S T A R T >   c l o s e   u p   o f   a   p e r s o n   w a l k i n g   a l o n g   w i t h   a   p a i r   o f   s k i s   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   s t a n d i n g   i n   t h e   f o r e g r o u n d   w i t h   u m b r e l l a s   < E N D >
+< S T A R T >   a   p l a t e   t o p p e d   w i t h   f o o d   s i t t i n g   o n   t o p   o f   a   p i c n i c   t a b l e   < E N D >
+< S T A R T >   a   t o u r   b u s   < U N K >   t h r o u g h   a   c i t y   s t r e e t   < E N D >
+< S T A R T >   a   t r a i n   t r a v e l i n g   d o w n   t r a c k s   n e x t   t o   a   p l a t f o r m   < E N D >
+< S T A R T >   a   c l o s e   s h o t   o f   < U N K >   n e x t   t o   a   p l a n t   < E N D >
+< S T A R T >   a   b a t h   r o o m   w i t h   a   b a t h   t u b   a n d   t o i l e t   < E N D >
+< S T A R T >   o n   a   b l a c k   < U N K >   i s   s i t t i n g   i n   t h e   l a k e   < E N D >
+< S T A R T >   a n   o r a n g e   c a t   l a y s   i n   t h e   m i d d l e   o f   g r e e n   g r a s s   < E N D >
+< S T A R T >   a   b u n c h   o f   f o o d   i s   s i t t i n g   o n   t o p   o f   a   w h i t e   p l a t e   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   w i t h   t e n n i s   r a c k e t s   a n d   r a c k e t s   < E N D >
+< S T A R T >   a   b a t t e r   i s   p r e p a r i n g   t o   s w i n g   a t   a   b a s e b a l l   g a m e   < E N D >
+< S T A R T >   a   t a b l e   t h a t   i s   s i t t i n g   u n d e r n e a t h   a   < U N K >   p l a y e r   < E N D >
+< S T A R T >   a   m a n   i s   t r y i n g   t o   c a t c h   a   f r i s b e e   < E N D >
+< S T A R T >   a   b o w l   o f   < U N K >   < U N K >   o n   t o p   o f   a   c a k e   < E N D >
+< S T A R T >   a   c a t   i s   s i t t i n g   < U N K >   o u t   o f   a   l a p t o p   c o m p u t e r   < E N D >
+< S T A R T >   a   c o u p l e   o f   s t u f f e d   b e a r s   s i t t i n g   n e x t   t o   e a c h   o t h e r   < E N D >
+< S T A R T >   a   c o u p l e   o f   g i r a f f e   s t a n d i n g   n e x t   t o   e a c h   o t h e r   < E N D >
+< S T A R T >   a   m a n   r i d i n g   s k i s   o n   t o p   o f   a   s n o w   b o a r d s   < E N D >
+< S T A R T >   a   p i e c e   o f   c a k e   w i t h   < U N K >   o n   i t   b e s i d e   a   f o r k   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   s t a n d i n g   a r o u n d   e a c h   o t h e r   < E N D >
+< S T A R T >   s e v e r a l   o r a n g e s   s i t t i n g   o n   t o p   o f   a   w h i t e   p l a t e   < E N D >
+< S T A R T >   s e v e r a l   c a r s   l i n e d   u p   i n   f r o n t   o f   a   c l o c k   t o w e r   < E N D >
+< S T A R T >   a   b a t h r o o m   s h o w e r   w i t h   a   w h i t e   b a t h   t u b   s i t t i n g   t o i l e t   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   t h r o w   < U N K >   a n d   < U N K >   a t   a   s m a l l   p a r k   < E N D >
+< S T A R T >   a n   o r a n g e   a n d   w h i t e   c a t   s i t s   w i t h   a   b i r d   s i t t i n g   o u t s i d e   < E N D >
+< S T A R T >   a   < U N K >   p h o n e   i s   s l e e p i n g   o n   t h e   < U N K >   f l o o r   < E N D >
+< S T A R T >   a   b i r d   s i t t i n g   o n   t o p   o f   a   t r e e   < E N D >
+< S T A R T >   a   t r a y   f i l l e d   w i t h   l o t s   o f   f o o d   < E N D >
+< S T A R T >   t h e r e   i s   a   g r o u p   o f   v e g e t a b l e s   i n s i d e   o f   a   s a n d w i c h   < E N D >
+< S T A R T >   p l a t e   f i l l e d   w i t h   l o t s   o f   d o n u t s   < E N D >
+< S T A R T >   s c i s s o r s   a n d   a   < U N K >   s i t t i n g   o n   t o p   o f   a   t a b l e   < E N D >
+< S T A R T >   a   c r o w d   o f   p e o p l e   s t a n d i n g   o n   t h e   s i d e   o f   a   w h i t e   b u i l d i n g   < E N D >
+< S T A R T >   a   c o u p l e   o f   z e b r a   s t a n d i n g   i n   a   l u s h   g r e e n   f i e l d   < E N D >
+< S T A R T >   a   t r a y   f i l l e d   w i t h   d o n u t s   o f   f o o d   < E N D >
+< S T A R T >   a   y o u n g   w o m a n   < U N K >   a t   a   b u s   s t a t i o n   d u r i n g   t h e   d a y   < E N D >
+< S T A R T >   a   m a n   s i t t i n g   i n   f r o n t   o f   a   w o o d e n   p a r k   b e n c h   < E N D >
+< S T A R T >   a   m a n   i s   s i t t i n g   a t   a   d e s k   w i t h   a   b o t t l e   o f   w i n e   < E N D >
+< S T A R T >   a   b l a c k   a n d   w h i t e   p h o t o g r a p h   o f   p e o p l e   w a l k i n g   i n   s t r e e t   < E N D >
+< S T A R T >   a   t r a i n   i s   c o m i n g   t h r o u g h   t h e   < U N K >   < U N K >   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   t h a t   a r e   s t a n d i n g   i n   < U N K >   < E N D >
+< S T A R T >   t h e r e   i s   a   t r a i n   t h a t   i s   p a r k e d   o n   t h e   t r a c k s   < E N D >
+< S T A R T >   a   b e d   s i t t i n g   i n s i d e   o f   a   r o o m   n e x t   t o   a   w i n d o w   < E N D >
+< S T A R T >   t h e r e   i s   a   b l u e   < U N K >   a n d   a   p i e c e   o f   c a k e   < E N D >
+< S T A R T >   a   y o u n g   m a n   h o l d i n g   a   b a s e b a l l   b a t   < E N D >
+< S T A R T >   t h e r e   i s   a n   i m a g e   o f   a   c o w   t h a t   i s   l o o k i n g   d o w n   < E N D >
+< S T A R T >   a   y o u n g   m a n   w a l k s   l u g g a g e   i n   f r o n t   o f   a n   a i r p l a n e   < E N D >
+< S T A R T >   a   h o t   d o g   s i t t i n g   o n   t o p   o f   p l a t e   < E N D >
+< S T A R T >   a   m a n   i s   s i t t i n g   a l o n e   o n   a   w o o d e n   b e n c h   < U N K >   < E N D >
+< S T A R T >   t w o   l a p t o p   c o m p u t e r s   a r e   s i t t i n g   < U N K >   o n   t h e   t a b l e   < E N D >
+< S T A R T >   a   w o m a n   s w i n g i n g   a   t e n n i s   r a c k e t   a t   a   t e n n i s   m a t c h   < E N D >
+< S T A R T >   a   l i v i n g   r o o m   w i t h   c o u c h   a   t a b l e   a n d   c h a i r   < E N D >
+< S T A R T >   t h e r e   i s   a   w o m a n   g e t t i n g   r e a d y   r e a d y   t o   h i t   a   b a l l   < E N D >
+< S T A R T >   a   < U N K >   < U N K >   a n d   c a k e   o n   a   t a b l e   < E N D >
+< S T A R T >   a   c l o s e   u p   v i e w   o f   a   p e r s o n   d o i n g   a   t r i c k   < E N D >
+< S T A R T >   t h e r e   i s   a n   i m a g e   o f   a   p a i n t i n g   w i t h   a   f i r e   h y d r a n t   < E N D >
+< S T A R T >   a   h e r d   o f   e l e p h a n t s   w a l k i n g   i n   a   g r a s s y   p l a i n   < E N D >
+< S T A R T >   a   v a r i e t y   o f   o r a n g e s   a r e   d i s p l a y e d   < E N D >
+< S T A R T >   l o t s   o f   p o l i c e   < U N K >   s t a n d i n g   n e a r   e a c h   o t h e r   o n   a   b e a c h   < E N D >
+< S T A R T >   a   m a n   r i d i n g   o n   a   s u r f b o a r d   o n   a   b e a c h   < E N D >
+< S T A R T >   a   b r o w n   t e d d y   b e a r   l a y s   i n   f r o n t   o f   a   l a r g e   m i r r o r   < E N D >
+< S T A R T >   a   k i t c h e n   i s   < U N K >   a n d   r e a d y   f o r   f o o d   < E N D >
+< S T A R T >   a   p a i r   o f   s c i s s o r s   l a y i n g   o n   t o p   o f   a   t a b l e   < E N D >
+< S T A R T >   a   m a n   w a l k i n g   i n   f r o n t   o f   l u g g a g e   a n d   r e d   l u g g a g e   < E N D >
+< S T A R T >   a   g r o u p   o f   p e o p l e   s t a n d i n g   i n   a   r o o m   < E N D >
