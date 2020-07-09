@@ -38,23 +38,23 @@ def bleu_score(candidate_corpus, references_corpus, max_n=4, weights=[0.25] * 4)
 
     Arguments:
         candidate_corpus: an iterable of candidate translations. Each translation is an
-            iterable of tokens
+            iterable of tokens (TORCH_TENSOR, ID_BASED)
         references_corpus: an iterable of iterables of reference translations. Each
-            translation is an iterable of tokens
+            translation is an iterable of tokens (TORCH_TENSOR, ID_BASED)
         max_n: the maximum n-gram we want to use. E.g. if max_n=3, we will use unigrams,
             bigrams and trigrams
         weights: a list of weights used for each n-gram category (uniform by default)
 
     Examples:
         >>> from torchtext.data.metrics import bleu_score
-        >>> candidate_corpus = [['My', 'full', 'pytorch', 'test'], ['Another', 'Sentence']]
-        >>> references_corpus = [[['My', 'full', 'pytorch', 'test'], ['Completely', 'Different']], [['No', 'Match']]]
+        >>> (Not correct) Candidate_corpus = [['My', 'full', 'pytorch', 'test'], ['Another', 'Sentence']]
+        >>> (Not correct) References_corpus = [[['My', 'full', 'pytorch', 'test'], ['Completely', 'Different']], [['No', 'Match']]]
         >>> bleu_score(candidate_corpus, references_corpus)
             0.8408964276313782
     """
 
     assert max_n == len(weights), 'Length of the "weights" list has be equal to max_n'
-    assert len(candidate_corpus) == len(references_corpus),\
+    assert candidate_corpus.shape[0] == references_corpus.shape[0],\
         'The length of candidate and reference corpus should be the same'
 
     clipped_counts = torch.zeros(max_n)
@@ -65,7 +65,7 @@ def bleu_score(candidate_corpus, references_corpus, max_n=4, weights=[0.25] * 4)
     refs_len = 0.0
 
     for (candidate, refs) in zip(candidate_corpus, references_corpus):
-        candidate_len += len(candidate)
+        candidate_len += candidate.shape[0]
 
         # Get the length of the reference that's closest in length to the candidate
         refs_len_list = [float(len(ref)) for ref in refs]
