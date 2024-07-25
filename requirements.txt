@@ -1,5 +1,5 @@
 numpy
-torch==1.2.0
+torch==2.2.0
 nltk
 pycocoevalcap==1.0
 h5py==2.9.0
